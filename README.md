@@ -3,7 +3,8 @@
 * [intro.html](https://rupertgitgit.github.io/w01/intro.html)
 ## Week 2
 * table.html
-* myclass.html
+* [myclass.html](https://rupertgitgit.github.io/w02/class.html)
+* [pokemon.html](https://rupertgitgit.github.io/w02/pokemon.html)
 ## Week 3
 * tku60.html
 * div.html
@@ -21,5 +22,5 @@
 * pet.css
 ## Week 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwOTU4MDc3XX0=
+eyJoaXN0b3J5IjpbMTA3OTUyMTg4NF19
 -->
