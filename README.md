@@ -1,6 +1,6 @@
 # RupertGitGit
 ## Week 1
-* intro.html
+* [intro.html](https://rupertgitgit.github.io/w01/intro.html)
 ## Week 2
 * table.html
 * myclass.html
@@ -21,5 +21,5 @@
 * pet.css
 ## Week 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMzcxODAxXX0=
+eyJoaXN0b3J5IjpbNDAwOTU4MDc3XX0=
 -->
