@@ -8,12 +8,16 @@
 * tku60.html
 * div.html
 ## Week 4
-* tictactoc.html
+* TicTacToc.html
 * ttt.css
 * blog.html
 * blog.css
+* Profile.html
+* Profile.css
 ## Week 5
+* imagegallery.html
+* imagegallery.css
 ## Week 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI4OTcwMTRdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzc4OTMxMTJdfQ==
 -->
