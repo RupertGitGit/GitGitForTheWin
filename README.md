@@ -17,7 +17,9 @@
 ## Week 5
 * imagegallery.html
 * imagegallery.css
+* index.html
+* pet.css
 ## Week 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc4OTMxMTJdfQ==
+eyJoaXN0b3J5IjpbNjYxMzcxODAxXX0=
 -->
