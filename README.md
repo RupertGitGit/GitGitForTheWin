@@ -2,7 +2,6 @@
 ## Week 1
 * [intro.html](https://rupertgitgit.github.io/w01/intro.html)
 ## Week 2
-* table.html
 * [myclass.html](https://rupertgitgit.github.io/w02/class.html)
 * [pokemon.html](https://rupertgitgit.github.io/w02/pokemon.html)
 ## Week 3
@@ -16,11 +15,11 @@
 * [Profile.html](https://rupertgitgit.github.io/w04/Profile.html)
 * Profile.css
 ## Week 5
-* imagegallery.html
+* [imagegallery.html](https://rupertgitgit.github.io/w05/imagegallery.html)
 * imagegallery.css
 * index.html
 * pet.css
 ## Week 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzcxOTMzN119
+eyJoaXN0b3J5IjpbLTk4OTczNTA3N119
 -->
