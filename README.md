@@ -8,7 +8,7 @@
 * tku60.html
 * ## Week 4
 * ## Week 5
-* ## Week 3
+* ## Week 6
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyNjU0MzldfQ==
+eyJoaXN0b3J5IjpbOTU1NTAwMjg2XX0=
 -->
